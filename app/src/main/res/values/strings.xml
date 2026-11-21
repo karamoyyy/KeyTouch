@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KeyTouch</string>
+    <string name="service_desc">Mengubah input keyboard dan mouse fisik menjadi sentuhan di layar untuk bermain game. Tidak membaca isi layar.</string>
+</resources>
